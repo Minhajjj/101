@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Student\Desktop\MINHAJ\MINHAJ\Source.cpp(49): error C4700: uninitialized local variable 'threshold' used
